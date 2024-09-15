@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:sqlserver://failoverg1.database.windows.net:1433;database=db1;encrypt=true;encrypt=true;trustServerCertificate=false;loginTimeout=30;
-    username: jeevan@91774
+    username: "jeevan@91774"
     password: Mjr@rtcr1#
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
   jpa:
